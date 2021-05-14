@@ -1,2 +1,2 @@
-# simonSays
-Simon Says, a little game in JavaScript
+# Simonsays
+A simple Simon Says game, with JavaScript
