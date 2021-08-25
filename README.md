@@ -1,2 +1,9 @@
 # Simonsays
-A simple Simon Says game, with JavaScript
+
+## About this project
+It´s a simple Simon Says game
+
+## Technologies
+- Javascript
+- CSS
+- HTML5
